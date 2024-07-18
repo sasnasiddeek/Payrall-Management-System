@@ -1,0 +1,64 @@
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.exe
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.pdb
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.xml
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\Google.Protobuf.dll
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\bin\Debug\MySql.Data.xml
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.exe
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.xml
+c:\users\user\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form3.resources
+C:\Users\User\documents\visual studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form4.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form6.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form7.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form8.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form9.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form10.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form11.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form12.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form13.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form14.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form15.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.login.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.myaccount.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form16.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form17.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form18.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.exe.config
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.exe
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.xml
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.pdb
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.exe
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.pdb
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\Payroll Managmend System.xml
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\Google.Protobuf.dll
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form3.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form1.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form10.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form11.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form12.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form13.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form14.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form15.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form16.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form17.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form18.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form4.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form6.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form7.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form8.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Form9.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.login.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.Resources.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll_Managmend_System.myaccount.resources
+C:\Users\User\Documents\GitHub\Payrall-Management-System\Payroll Managmend System\Payroll Managmend System\obj\Debug\Payroll Managmend System.vbproj.GenerateResource.Cache
